@@ -1,7 +1,5 @@
 # PowerBI-projects
 
-# Projectos realizados con PowerBI
-
 ### ACCESO AL AGUA POTABLE EN EL MUNDO ###
 
 >En las últimas décadas la población mundial ha experimentado un fuerte cambio en los accesos al agua potable. Factores como el calentamiento global, déficit de aguas lluvias , tala de bosques nativos, incendios, actividad industrial, monocultivos, entre otros; podrían estar impidiendo y reduciendo el espectro de acceso al agua potable en algunos lugares del mundo.
